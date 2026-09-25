@@ -147,6 +147,9 @@
     <EmbeddedResource Include="Resources\Images\BTTF105.png">
       <LogicalName>TelltaleD3DMeshEditor.Resources.Images.BTTF105.png</LogicalName>
     </EmbeddedResource>
-  </ItemGroup>
+    <EmbeddedResource Include="Resources\Images\PKN2.png">
+      <LogicalName>TelltaleD3DMeshEditor.Resources.Images.PKN2.png</LogicalName>
+    </EmbeddedResource>
+</ItemGroup>
 
 </Project>
