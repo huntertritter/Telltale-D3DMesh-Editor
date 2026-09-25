@@ -136,6 +136,7 @@ public sealed class DiscordPresenceService : IDisposable
             GameId.BackToTheFutureEpisode3 => "bttf103",
             GameId.BackToTheFutureEpisode4 => "bttf104",
             GameId.BackToTheFutureEpisode5 => "bttf105",
+            GameId.PokerNight2 => "pkn2",            
             _ => null,
         };
 
